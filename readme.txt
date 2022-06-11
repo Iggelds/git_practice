@@ -1,1 +1,1 @@
-This is the first file to be commited
+This is initial commit
